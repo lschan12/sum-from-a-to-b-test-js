@@ -9,4 +9,4 @@ const sum = function(fromN, toN) {
 
 console.log(sum(3, 7));
 
-// module.exports = sum;
+module.exports = sum;
